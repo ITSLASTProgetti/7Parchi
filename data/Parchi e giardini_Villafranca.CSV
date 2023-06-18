@@ -1,0 +1,91 @@
+ID Località;Codice località;Nome località;Descrizione;Classificazione;Classificazione ISTAT;Superficie totale (m²)
+182;A1;ALPO - VIA DOSDEGA';;Verde attrezzato di quartiere;2 - Parchi urbani;878
+185;A4;ALPO - VIA DON PROVOLO;;Aree verdi con giochi;1 - Verde attrezzato;950
+188;A7;ALPO - VIA PRINCIPE DI SALUZZO;;Campo ;6 - Campo;4219
+196;C2;CALURI - VIA DEI PESCHI;FRONTE ASILO;Verde attrezzato di quartiere;1 - Verde attrezzato;719
+197;C3;CALURI - VIA CALURI ;PARCO GIOCHI;Verde attrezzato di quartiere;1 - Verde attrezzato;366
+198;C4;CALURI - VIA ALBINO LUCIANI;FRONTE CHIESA;Aree verdi con giochi;1 - Verde attrezzato;397
+209;C7;CALURI;VIA DEI PESCHI IMPIANTI;Aree verdi con giochi;5e - Aree speciali - centri sportivi;429
+181;D12;DOSSOBUONO - VIA BRIGATE ALPINE;;Verde attrezzato di quartiere;1 - Verde attrezzato;224
+155;D19;DOSSOBUONO- VIA SAN LUCA;;Verde attrezzato di quartiere;1 - Verde attrezzato;1592
+156;D20;DOSSOBUONO - VIA CAVOUR;FRONTE CASSA DI RISPARMIO;Giardini nel centro urbano;2 - Parchi urbani;245
+160;D23;DOSSOBUONO - VIA DELLA MADDALENA ANGOLO VIALE EUROPA;;Verde attrezzato di quartiere;1 - Verde attrezzato;2173
+157;D24;DOSSOBUONO - VIA CAVOUR;FRONTE BANCA POP. - ANGOLO SEMAFORO - FONTANA MARIOTTO;Giardini nel centro urbano;2 - Parchi urbani;154
+162;D26;DOSSOBUONO - VIA DON BOSCO;;Verde attrezzato di quartiere;1 - Verde attrezzato;1713
+206;D27;DOSSOBUONO -VIA VENETO;;Aree verdi con giochi;1 - Verde attrezzato;630
+207;D28;DOSSOBUONO - VIA DON NICOLA MAZZA;AREA ANTISTANTE CIMITERO;Campo ;4 - Aree di arredo urbano;4736
+172;D3;DOSSOBUONO - VIA FRASSINI ;PARCO GIOCHI;Verde attrezzato di quartiere;1 - Verde attrezzato;16149
+253;D35;VIA PAOLO BEMBO DOSSOBUONO;DOSSOBUONO;Area verde zona zai;8 - Area verde ZAI;10077
+173;D4;DOSSOBUONO - VIA ALESSANDRI;LATO DONADELLI;Giardini nel centro urbano;3 - Verde storico;9051
+174;D5;DOSSOBUONO - VIA ALESSANDRI;PARCO GIOCHI;Verde attrezzato di quartiere;1 - Verde attrezzato;3546
+175;D6;DOSSOBUONO - VIA DE MARTIN;PARCO GIOCHI;Verde attrezzato di quartiere;1 - Verde attrezzato;533
+177;D8;DOSSOBUONO - VIA CENTURARE;LOTTIZZAZIONE PAVARANA;Giardini nel centro urbano;2 - Parchi urbani;419
+215;P3;PIZZOLETTA - VIA GRAMSCI ANGOLO VIA DUCA DEGLI ABRUZZI;CENTRO SOCIALE;Aree verdi con giochi;5f - Aree speciali - edifici pubblici;1424
+28;Q1;QUADERNI - VIA BRIGATA ITALIA;;Verde attrezzato di quartiere;2 - Parchi urbani;851
+38;Q11;QUADERNI - VIA TITO SPERI;;Giardini nel centro urbano;4 - Aree di arredo urbano;865
+42;Q13;QUADERNI - VERDE VIA SILVIO PELLICO;;Campo ;6 - Campo;8967
+29;Q2;QUADERNI - VIA AFRO DECO';AREA ATTREZZATA PRESSO IMPIANTI SPORTIVI ;Parchi del centro urbano;5e - Aree speciali - centri sportivi;1569
+30;Q3;QUADERNI - VIA KENNEDY;;Giardini nel centro urbano;2 - Parchi urbani;373
+34;Q7;QUADERNI - VIA DON CARLO GNOCCHI;;Verde attrezzato di quartiere;1 - Verde attrezzato;563
+190;R2;RIZZA - VIA LA RISORTA;;Verde attrezzato di quartiere;1 - Verde attrezzato;458
+191;R3;RIZZA - VIA ZUANETTI;;Verde attrezzato di quartiere;1 - Verde attrezzato;1357
+192;R4;RIZZA - VIA ZUANETTI 2;;Verde attrezzato di quartiere;1 - Verde attrezzato;5625
+193;R5;RIZZA - VIA DELL'AMICIZIA;;Verde attrezzato di quartiere;1 - Verde attrezzato;404
+203;RO2;ROSEGAFERRO - CIMITERO;AREA ANTISTANTE ;Giardini nel centro urbano;2 - Parchi urbani;4121
+204;RO3;ROSEGAFERRO - VIA MONS. COMBONI;;Verde attrezzato di quartiere;1 - Verde attrezzato;1242
+214;RO4;ROSEGAFERRO - VIA ZAMBONI;VIA ZAMBONI - IMPIANTI SPORTIVI;Aree verdi con giochi;5e - Aree speciali - centri sportivi;3452
+54;V10;VILLAFRANCA - VIA SPALLANZANI / VIA MALPIGHI;ALBERI - AIUOLE - AREA ATTREZZATA;Verde attrezzato di quartiere;1 - Verde attrezzato;13446
+146;V103;VILLAFRANCA - PARCO DEL TIONE;;Parchi del centro urbano;2 - Parchi urbani;69904
+147;V104;VIA ISONZO - EX IPPODROMO;;Verde attrezzato di quartiere;1 - Verde attrezzato;10870
+218;V108;VILLAFRANCA - CASTELLO SCALIGERO;CASTELLO SCALIGERO;Aree verdi con giochi;2 - Parchi urbani;50262
+219;V109;VILLAFRANCA - VIA BROLI ANTICHI 1;VILLAFRANCA DI VERONA;Aree verdi con giochi;1 - Verde attrezzato;612
+55;V11;VILLAFRANCA - VIA CESARE MARCHI;;Verde attrezzato di quartiere;1 - Verde attrezzato;4317
+220;V110;VILLAFRANCA - VIA BROLI ANTICHI 2;VILLAFRANCA DI VERONA;Aree verdi con giochi;1 - Verde attrezzato;333
+56;V12;VILLAFRANCA - VIA DONATORI DI SANGUE;;Verde attrezzato di quartiere;1 - Verde attrezzato;760
+163;V120;VILLAFRANCA - VIA POSTUMIA;EX HOTEL EXPO;Giardini nel centro urbano;1 - Verde attrezzato;16222
+58;V14;VILLAFRANCA - VIA DEL BERSAGLIERE;;Verde attrezzato di quartiere;1 - Verde attrezzato;1180
+59;V15;VILLAFRANCA - VIA FOGAGNOLO;ENTRATA + AREA A SINISTRA;Verde attrezzato di quartiere;1 - Verde attrezzato;3477
+62;V18;VILLAFRANCA - VIA DELL'ALPINO ;ENTRATA;Giardini nel centro urbano;2 - Parchi urbani;450
+63;V19;VILLAFRANCA - VIA DELL'ALPINO;LOTTIZZAZIONE;Verde attrezzato di quartiere;1 - Verde attrezzato;309
+46;V2;VILLAFRANCA - VIA PACE;GIARDINI PALAZZO BOTTAGISIO;Giardini nel centro urbano;3 - Verde storico;5607
+65;V21;VILLAFRANCA - VIA DEL FANTE;;Verde attrezzato di quartiere;1 - Verde attrezzato;1572
+66;V22;VILLAFRANCA - VIALE OLIMPIA;;Giardini nel centro urbano;2 - Parchi urbani;8894
+70;V26;VILLAFRANCA - ZONA TIONE - VIA OLIMPIA - EMMAUS;;Parchi del centro urbano;2 - Parchi urbani;21809
+71;V27;VILLAFRANCA - ZONA TIONE - DA VIA OLIMPIA A VIA N.BIXIO LATO MURAGLIE;;Parchi del centro urbano;2 - Parchi urbani;16396
+75;V31;VILLAFRANCA - ZONA TIONE - VIA PERUGIA - VIA MURAGLIE;;Parchi del centro urbano;2 - Parchi urbani;1713
+76;V32;VILLAFRANCA - VIA DANTE;;Verde attrezzato di quartiere;1 - Verde attrezzato;1267
+77;V33;VILLAFRANCA - VIA GREZZANO (INTERNA) ;FRESATURA LUNGO LA FERROVIA;Campo ;6 - Campo;2149
+82;V38;VILLAFRANCA - VIA BELGIO ;AIUOLA DEBORTOLI LATO CABINA ENEL;Area verde zona zai;8 - Area verde ZAI;319
+83;V39;VILLAFRANCA - VIA BELGIO AIUOLA DEBORTOLI PILONE TELEFONICO;;Area verde zona zai;8 - Area verde ZAI;821
+48;V4;VILLAFRANCA - VIA ORIENTALE;;Giardini nel centro urbano;2 - Parchi urbani;377
+84;V40;VILLAFRANCA - VIA ADAMELLO ;ANGOLO VIA BELGIO FIANCO ORTOMBINA;Area verde zona zai;8 - Area verde ZAI;153
+85;V41;VILLAFRANCA - PARCHEGGIO VIA OLANDA ;AIUOLE FRONTE PASTAIO;Parchi del centro urbano;1 - Verde attrezzato;526
+87;V43;VILLAFRANCA - VIA TOFANE;DIETRO PALESTRA;Area verde zona zai;8 - Area verde ZAI;2063
+88;V44;VILLAFRANCA - VIA ADAMELLO;ANGOLO VIA BELGIO FIANCO ORTOMBINA;Area verde zona zai;8 - Area verde ZAI;4868
+49;V5;VILLAFRANCA - VIA ESPERANTO;;Verde attrezzato di quartiere;1 - Verde attrezzato;4859
+96;V52;VILLAFRANCA - VIALE DEL LAVORO ;PIAZZALE PRE TECNO;Area verde zona zai;8 - Area verde ZAI;6141
+97;V53;VILLAFRANCA - VIALE DEL LAVORO ;ZONA NUOVA VICINO FERROVIA;Area verde zona zai;8 - Area verde ZAI;1943
+98;V54;VILLAFRANCA - VIALE DEL LAVORO ;ANGOLO CENTRO REVISIONI ;Area verde zona zai;8 - Area verde ZAI;541
+99;V55;VILLAFRANCA - VIA PASUBIO;PIP;Area verde zona zai;8 - Area verde ZAI;2587
+100;V56;VILLAFRANCA - VIA PASUBIO NUOVO;;Area verde zona zai;8 - Area verde ZAI;4660
+101;V57;VILLAFRANCA - VIA PASUBIO;LATO RENCAR;Area verde zona zai;8 - Area verde ZAI;805
+102;V58;VILLAFRANCA - VIA PASUBIO ;VICINO OFFICINA FACCIOLI;Area verde zona zai;8 - Area verde ZAI;3428
+104;V60;VILLAFRANCA - P.ZZA QUARTIERE MADONNA DEL POPOLO;AIUOLE;Verde attrezzato di quartiere;1 - Verde attrezzato;3334
+105;V61;VILLAFRANCA - VIA BOTTAGISIO ;AREA CONFINANTE BRETELLINA;Verde attrezzato di quartiere;1 - Verde attrezzato;13876
+112;V69;VILLAFRANCA - VIA CAVALIERI DI VITTORIO VENETO;;Verde attrezzato di quartiere;1 - Verde attrezzato;581
+113;V70;VILLAFRANCA - VIA EINAUDI;;Giardini nel centro urbano;1 - Verde attrezzato;579
+119;V76;VILLAFRANCA - VIA MARTINELLI;;Verde attrezzato di quartiere;1 - Verde attrezzato;1667
+121;V78;VILLAFRANCA - VIA BUOZZI;;Verde attrezzato di quartiere;1 - Verde attrezzato;1151
+122;V79;VILLAFRANCA - VIA VOLTURNO VIA CRISPI;;Campo ;6 - Campo;4731
+52;V8;VILLAFRANCA - VIA BRESAOLA;;Verde attrezzato di quartiere;1 - Verde attrezzato;358
+123;V80;VILLAFRANCA - VIA DELLA SPERANZA;;Parchi del centro urbano;2 - Parchi urbani;2691
+124;V81;VILLAFRANCA - VIA DELLA SPERANZA ;ZONA ANTISTANTE BAITA ALPINI ;Parchi del centro urbano;2 - Parchi urbani;311
+126;V83;VILLAFRANCA - VIA MAGENTA;;Giardini nel centro urbano;2 - Parchi urbani;7367
+127;V84;VILLAFRANCA - VIA LABRIOLA;;Verde attrezzato di quartiere;1 - Verde attrezzato;1577
+130;V87;VILLAFRANCA - VIA OLMO;;Giardini nel centro urbano;2 - Parchi urbani;409
+131;V88;VILLAFRANCA - VIA MONTALE;;Verde attrezzato di quartiere;1 - Verde attrezzato;3009
+132;V89;VILLAFRANCA - VIA SOLFERINO;;Giardini nel centro urbano;2 - Parchi urbani;553
+133;V90;VILLAFRANCA - VIA CADUTI SUL LAVORO;;Giardini nel centro urbano;2 - Parchi urbani;451
+134;V91;VILLAFRANCA - VIA COLLODI;;Verde attrezzato di quartiere;1 - Verde attrezzato;8147
+135;V92;VILLAFRANCA - VIA COLLODI;;Campo ;6 - Campo;4911
+140;V97;VILLAFRANCA - VIA S.D'ACQUISTO;;Verde attrezzato di quartiere;1 - Verde attrezzato;602
