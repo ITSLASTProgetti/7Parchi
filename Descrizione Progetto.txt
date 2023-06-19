@@ -1,0 +1,6 @@
+Divisione:
+- Nicola, Ivan, Daniela --> Bot telegram
+- Danilo, Vittoria, Gaoyang --> Sito Web
+
+Descrizione:
+Creazione di un bot telegram e di un sito web che consigli in base alla posizione e ad eventuali filtri scelti dall'utente il parco pubblico più vicino e più conforme alle esigenze con l'aggiunta di foto e recensioni.
